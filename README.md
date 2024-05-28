@@ -1,8 +1,6 @@
 Pong game
 =======================
 
-Description:
------------
 Pong is a two-dimensional sports arcade game that mimics table tennis with simple graphics. Players control paddles, moving them vertically along the left or right sides of the screen, and compete against each other by hitting a ball back and forth.
 
 Description:
